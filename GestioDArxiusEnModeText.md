@@ -7,8 +7,10 @@ Gestió d'arxius en mode text
 * [Exercicis pràctics](ExercicisGestioDArxiusEnModeText.md)
 
 
-Tipus d'entorn en mode text del Windows
+Tipus d'entorn en mode text 
 ---------------------------------------
+
+A Linux/GNU cal obrir el Terminal d'ordres 
 
 Les versions actuals de Microsoft Windows compten amb dues interfícies
 d'usuari en mode text:
